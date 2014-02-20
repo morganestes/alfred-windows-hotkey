@@ -13,6 +13,7 @@ This workflow lets me use the Win+key combo to perform the most common system fu
 * Win + U: Shut Down
 * Win + R: Restart
 * Shift + Alt + F4: Quit all
+* Ctrl + Shift + Esc: Application Monitor
 
 The same keys work on the Mac keyboard, just with different names on the keys:
 
@@ -20,4 +21,5 @@ The same keys work on the Mac keyboard, just with different names on the keys:
 * ⌥ + U: Shut Down
 * ⌥ + R: Restart
 * ⇧ + ⌘ + F4: Quit all
+* ˄ + ⇧ + ⎋ (␛): Application Monitor
 
